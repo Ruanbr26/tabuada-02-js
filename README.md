@@ -1,1 +1,1 @@
-# tabuada-02-js
+# tabuada
